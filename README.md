@@ -1,3 +1,7 @@
+Calculadora de Salário Líquido com Desconto INSS
+Este projeto consiste em uma calculadora de salário líquido com desconto de INSS desenvolvida em React como parte da disciplina de Programação para Web do 5º semestre do curso de Ciência da Computação. A calculadora permite aos usuários calcular o salário líquido com base no salário bruto informado e descontos padrão do INSS de acordo com as faixas salariais.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
